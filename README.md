@@ -1,7 +1,5 @@
 <!-- TITLE -->
-# 
-
-* ***Conteúdo:***
+# Elementos — None, Inline, Block e Inline-block
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
