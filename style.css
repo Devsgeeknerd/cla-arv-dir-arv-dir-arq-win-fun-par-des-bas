@@ -8,4 +8,5 @@ body {
 .texto {
     background-color: #eee;
     color: #ff0000;
+    width: 300px;
 }
