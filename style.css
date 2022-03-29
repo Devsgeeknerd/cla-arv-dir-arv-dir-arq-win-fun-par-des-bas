@@ -17,4 +17,5 @@ body {
     text-align: center;
     text-decoration: underline;
     display: none;
+    display: block;
 }
