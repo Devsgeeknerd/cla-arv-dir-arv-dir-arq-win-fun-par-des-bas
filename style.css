@@ -16,7 +16,7 @@ body {
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
-    display: none;
+    /* display: none; */
     display: block;
     display: inline;
     display: inline-block;
